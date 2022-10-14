@@ -1,10 +1,10 @@
 ---
 source-git-commit: aec0e79e0eeaecce503b8b3dbc3ef493680db534
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '10'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
-# Livefye
+# Livefyre
 
-Dieses Repo ist jetzt archiviert. Siehe discontinue.en für detail.s
+Dieses Verzeichnis ist jetzt archiviert. Weitere Informationen finden Sie unter https://github.com/AdobeDocs/discontinued.en.
