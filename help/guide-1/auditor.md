@@ -1,16 +1,16 @@
 ---
-title: "[!DNL Adobe Experience Platform Auditor] Ende des Lebenszyklus"
-description: Dieses Dokument behandelt [!DNL Adobe Experience Platform Auditor] und ihren Nachfolgern.
+title: „Ende des Lebenszyklus von [!DNL Adobe Experience Platform Auditor]“
+description: Dieses Dokument bezieht sich auf  [!DNL Adobe Experience Platform Auditor]  und seine Nachfolgeprodukte.
 exl-id: 326ae443-2974-4f0c-8c16-bfd2b8a6a70c
 source-git-commit: 53a6f97bed42b22e77d3fb0cd72c08a6418b2e9f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# [!DNL Adobe Experience Platform Auditor] Übersicht {#adobe-experience-cloud-auditor}
+# Übersicht über [!DNL Adobe Experience Platform Auditor] {#adobe-experience-cloud-auditor}
 
-[!DNL Adobe Experience Platform Auditor] war ein System, mit dem Sie Berichte erstellen konnten, die Ihre [!DNL Adobe Experience Cloud] Implementierung und geben Hinweise zur Verbesserung. [!DNL Adobe Experience Platform Auditor] hat das Ende der Lebensdauer (End of Life, EOL) erreicht und ist nicht mehr aktiv.
+[!DNL Adobe Experience Platform Auditor] war ein System zum Erstellen von Berichten, mit denen Sie Ihre [!DNL Adobe Experience Cloud]-Implementierung bewerten konnten und Hinweise zu Verbesserungsmöglichkeiten erhielten. [!DNL Adobe Experience Platform Auditor] hat das Ende der Lebensdauer (End of Life, EOL) erreicht und ist nicht mehr aktiv.
 
-Während das eigenständige System beendet wurde, können Sie weiterhin alle [!DNL Auditor] Tests, bei denen [!DNL Adobe Experience Platform Debugger] Browsererweiterung verwenden. Weitere Informationen finden Sie im Abschnitt [Dokumentation zu Experience Platform Debugger](https://experienceleague.adobe.com/docs/debugger/using-v2/experience-cloud-debugger.html).
+Das eigenständige System wurde zwar außer Betrieb gesetzt, Sie können aber weiterhin alle [!DNL Auditor]-Tests unter Verwendung der [!DNL Adobe Experience Platform Debugger]-Browser-Erweiterung ausführen. Weitere Informationen finden Sie in der [Dokumentation für Experience Platform Debugger](https://experienceleague.adobe.com/docs/debugger/using-v2/experience-cloud-debugger.html?lang=de).
