@@ -1,8 +1,8 @@
 ---
 source-git-commit: 9415588f8d42414d8d9deade1a59a7cdb55a2940
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '296'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 # Beitragen
@@ -15,9 +15,9 @@ Im Folgenden finden Sie einige Leitlinien, die bei der Mitarbeit an diesem Proje
 
 Dieses Projekt befolgt den [Verhaltenskodex](code-of-conduct.md) von Adobe. Durch Ihre Teilnahme sind Sie verpflichtet, diesen Code einzuhalten. Bitte melden Sie inakzeptables Verhalten unter [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
 
-## Dokumentation zum Mitarbeiter-Handbuch
+## Dokumentation zum Handbuch für Mitwirkende
 
-Siehe [Mitarbeiter-Handbuch](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Siehe [Handbuch für Mitwirkende](https://docs.adobe.com/content/help/de/contributor/contributor-guide/introduction.html).
 
 ## Haben Sie eine Frage?
 
@@ -29,7 +29,7 @@ Alle Beiträge Dritter zu diesem Projekt erfordern eine unterzeichnete CLA. Dadu
 
 ## Codeüberprüfungen
 
-Alle Einreichungen sollten in Form von Pull-Anfragen erfolgen und müssen von Projekt-Committers überprüft werden. Lesen Sie [die Pull-Anforderungsdokumentation von GitHub](https://help.github.com/de/articles/about-pull-requests/) für weitere Informationen zum Senden von Pull-Anfragen.
+Alle Einreichungen sollten in Form von Pull-Anfragen erfolgen und müssen von Projekt-Committers überprüft werden. Lesen Sie [die Pull-Anforderungsdokumentation von GitHub](https://help.github.com/articles/about-pull-requests/) für weitere Informationen zum Senden von Pull-Anfragen.
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
