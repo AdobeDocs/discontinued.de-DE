@@ -1,8 +1,8 @@
 ---
-source-git-commit: 9415588f8d42414d8d9deade1a59a7cdb55a2940
-workflow-type: ht
-source-wordcount: '296'
-ht-degree: 100%
+source-git-commit: eb20d5194b79b713249ae97556c67c926cc4356d
+workflow-type: tm+mt
+source-wordcount: '294'
+ht-degree: 97%
 
 ---
 # Beitragen
@@ -17,7 +17,7 @@ Dieses Projekt befolgt den [Verhaltenskodex](code-of-conduct.md) von Adobe. Durc
 
 ## Dokumentation zum Handbuch für Mitwirkende
 
-Siehe [Handbuch für Mitwirkende](https://docs.adobe.com/content/help/de/contributor/contributor-guide/introduction.html).
+Siehe [Handbuch für Mitwirkende](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
 
 ## Haben Sie eine Frage?
 
