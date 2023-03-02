@@ -3,10 +3,10 @@ keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-o
 title: „Häufig gestellte Fragen zum Ende der Lebensdauer von [!DNL Device Co-op]“
 description: Erfahren Sie mehr über die Pläne zum Ende der Lebensdauer für Device Co-op.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: 8089325de90b03d573df28483428c2b82d221cd4
-workflow-type: ht
-source-wordcount: '1085'
-ht-degree: 100%
+source-git-commit: 180dd414dd0b595518f54cddc5b02ed06ecc0b16
+workflow-type: tm+mt
+source-wordcount: '1138'
+ht-degree: 95%
 
 ---
 
@@ -101,3 +101,8 @@ Die Einführung anderer Funktionen ist nicht obligatorisch. Dies wird lediglich 
 ## Wie lange wird die Einführung dauern?
 
 Dies hängt von der Funktion ab. Wenn beispielsweise Analytics Ultimate-Kunden oder -Kundinnen, die die geräteübergreifende Analyse mit [!DNL Device Co-op] verwenden, zur Real-time-Funktion für private Gerätediagramme oder feldbasiertes Stitching migrieren müssen, wird die Einführung einige Zeit in Anspruch nehmen.
+
+## Was ist mit dem [!UICONTROL Personen] Metrik?
+
+Mit der Einstellung der [!DNL Device Co-op], die [!UICONTROL Personen] -Metrik nicht mehr relevant ist. In naher Zukunft (Datum TBD) werden wir die [!UICONTROL Personen] Metrik. An diesem Punkt werden wir seine Daten an die [!UICONTROL Unique Visitor] Metrik in Analytics verwenden, um zu verhindern, dass Projekte, Segmente und berechnete Metriken beschädigt werden.
+
