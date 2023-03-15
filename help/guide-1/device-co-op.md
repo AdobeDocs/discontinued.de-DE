@@ -4,9 +4,9 @@ title: „Häufig gestellte Fragen zum Ende der Lebensdauer von [!DNL Device Co-
 description: Erfahren Sie mehr über die Pläne zum Ende der Lebensdauer für Device Co-op.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
 source-git-commit: 4138a53d2aec43caba319de302593ed9ece36c38
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1134'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -104,5 +104,5 @@ Dies hängt von der Funktion ab. Wenn beispielsweise Analytics Ultimate-Kunden o
 
 ## Was ist mit der [!UICONTROL Personen]-Metrik?
 
-Mit Ende der [!DNL Device Co-op] ist die [!UICONTROL Personen]-Metrik nicht mehr relevant. Am 8. Mai 2023 werden wir die [!UICONTROL Personen] Metrik. Ab diesem Zeitpunkt leiten wir die Daten in die Metrik [!UICONTROL Unique Visitor] in Analytics um, um zu verhindern, dass Projekte, Segmente und berechnete Metriken beschädigt werden.
+Mit Ende der [!DNL Device Co-op] ist die [!UICONTROL Personen]-Metrik nicht mehr relevant. Am 8. Mai 2023 werden wir die [!UICONTROL Personen]-Metrik entfernen. Ab diesem Zeitpunkt leiten wir die Daten in die Metrik [!UICONTROL Unique Visitor] in Analytics um, um zu verhindern, dass Projekte, Segmente und berechnete Metriken beschädigt werden.
 
