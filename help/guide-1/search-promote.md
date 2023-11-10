@@ -2,10 +2,10 @@
 title: „Ankündigung über das Ende der Nutzungsdauer von [!DNL Adobe Search&Promote]“
 description: Erfahren Sie mehr zur Ankündigung über das Ende der Nutzungsdauer von  [!DNL Adobe Search&Promote] .
 exl-id: 1e062554-090b-4275-8595-8ae4233c58d7
-source-git-commit: 8089325de90b03d573df28483428c2b82d221cd4
-workflow-type: ht
-source-wordcount: '179'
-ht-degree: 100%
+source-git-commit: d9284331dedc7534dbcaf6eb1b44a7506af5baa0
+workflow-type: tm+mt
+source-wordcount: '156'
+ht-degree: 67%
 
 ---
 
@@ -13,17 +13,17 @@ ht-degree: 100%
 
 ## Häufig gestellte Fragen zum Ende der Nutzungsdauer für [!DNL Search&Promote]
 
-### **_An welchem Datum wird [!DNL Search&Promote] eingestellt?_**
+### **_Zu welchem Datum [!DNL Search&Promote] den Betrieb einstellen?_**
 
-Das Ende der Nutzungsdauer für [!DNL Adobe Search&Promote] ist für den **1. September 2022** geplant. An diesem Datum kann nicht mehr auf die administrative [!DNL Search&Promote]-Benutzeroberfläche zugegriffen werden, und Anfragen an [!DNL Search&Promote]-APIs liefern keine Ergebnisse mehr. Vor diesem Datum ist der Service vollständig verfügbar und funktionsfähig. Im Hinblick auf den 1. September 2022 sind vertragliche Ansprüche auf [!DNL Search&Promote] nach dem 31. August 2022 nicht mehr zulässig.
+Ende des Dienstes für [!DNL Adobe Search&Promote] wurde für **1. September 2022**. An diesem Datum wird die Variable [!DNL Search&Promote] Die administrative Benutzeroberfläche war nicht mehr verfügbar und Anfragen an [!DNL Search&Promote] APIs liefern keine Ergebnisse mehr.
 
 ### **_Was geschieht, wenn eine Suche oder eine andere API-Anfrage an [!DNL Search&Promote] erfolgt?_**
 
-Suchvorgänge und andere API-Anfragen an [!DNL Search&Promote] geben keine Ergebnisse mehr zurück. Anfragen können zu einem Fehler vom Typ „Host nicht gefunden“, einem 3xx-HTTP Redirect oder einem HTTP-Fehler wie 404, 408 oder einem anderen HTTP-Fehler-Code führen.
+Suchen und andere API-Anfragen an [!DNL Search&Promote] gibt keine Ergebnisse mehr zurück. Anfragen können zu einem Fehler vom Typ „Host nicht gefunden“, einem 3xx-HTTP Redirect oder einem HTTP-Fehler wie 404, 408 oder einem anderen HTTP-Fehler-Code führen.
 
 ### **_Verfügt Adobe über alternative Optionen für die Site- und die Commerce-Suche?_**
 
-Ja. Zur Produkt- und Commerce-Suche ist [Live Search von [!DNL Adobe Commerce]](https://devdocs.magento.com/live-search/overview.html) die Adobe-Suchanwendung für die Zukunft.
+Ja. Zur Produkt- und Commerce-Suche ist [Live Search von [!DNL Adobe Commerce]](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/guide-overview.html?lang=en) die Adobe-Suchanwendung für die Zukunft.
 
 <!-- ### **_Can Adobe recommend any frameworks or platforms that offer features similar to Search&Promote?_**
 
