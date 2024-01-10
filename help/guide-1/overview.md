@@ -3,7 +3,7 @@ title: Übersicht über eingestellte  [!DNL Adobe Experience Cloud] -Produkte
 description: Übersicht über eingestellte, zurückgezogene oder sich am Ende ihrer Lebensdauer befindliche Produkte für  [!DNL Adobe Experience Cloud] und  [!DNL Adobe Experience Platform]
 exl-id: 4841f7b3-993b-4406-81b1-3fb3fbbff453
 source-git-commit: e9f709eb76e4a00bb6d438dd5505c160e064e407
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
 ht-degree: 100%
 
