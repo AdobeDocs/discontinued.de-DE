@@ -1,11 +1,11 @@
 ---
-user-guide-title: Eingestellte Erzeugnisse für [!DNL Adobe Experience Cloud]
+user-guide-title: Eingestellte Produkte für  [!DNL Adobe Experience Cloud]
 breadcrumb-title: Eingestellte Produkte
-user-guide-description: Liste der stillgelegten Erzeugnisse für [!DNL Adobe Experience Cloud].
+user-guide-description: Liste eingestellter Produkte für  [!DNL Adobe Experience Cloud].
 source-git-commit: bc0872ad51eb6e4f8a589dee625145909b6a5a63
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '32'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
