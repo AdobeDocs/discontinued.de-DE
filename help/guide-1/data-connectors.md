@@ -1,21 +1,21 @@
 ---
-description: Erfahren Sie mehr über das Abbrechen von Adobe Analytics Data Connectors-Integrationen.
-title: Abschaffung der Analytics Data Connectors-Integrationen
+description: Erfahren Sie mehr über die Einstellung von Adobe Analytics Data Connectors-Integrationen.
+title: Ende des Lebenszyklus von Analytics Data Connectors-Integrationen
 exl-id: b407675a-9fcf-4f24-bc88-69ccdb5b3658
 source-git-commit: 4bcdf13748a4723ec088d8fa6ca57c664b3e2a32
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '294'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
-# Abschaffung der Adobe Data Connectors-Integrationen
+# Ende des Lebenszyklus von Adobe Data Connectors-Integrationen
 
 **Mit Wirkung vom 19. August 2021**, hat Adobe die Data Connectors-Integrationen eingestellt und durch [Adobe Exchange Marketplace](https://exchange.adobe.com/experiencecloud.analytics.html?lang=de#product) ersetzt. Adobe beabsichtigt, den Übergang für Kundinnen und Kunden sowie Partner so nahtlos wie möglich zu gestalten.
 
 Das Ziel von Adobe Analytics ist es, erstklassige Web- und Marketing-Analysen bereitzustellen, um die Anforderungen von Kundinnen und Kunden zu erfüllen. Im Zuge der Entwicklung von Technologie- und Geschäftsanforderungen bemüht sich Adobe ständig, die höchsten Standards zu erfüllen. Die APIs, die Data Connectors-Integrationen unterstützen, erfüllen diese Standards nicht mehr und sind in der modernen Technologieinfrastruktur von Adobe nicht mehr haltbar.
 
-Beachten Sie, dass diese Mitteilung zum Ende der Lebensdauer nicht für Adobe Source Connectors gilt, bei denen es sich um eine Datenerfassungsfunktion in Adobe Experience Platform handelt. Adobe Source Connectors, gelegentlich auch als Adobe Data Connectors bezeichnet, werden von Adobe vollständig unterstützt.
+Beachten Sie, dass diese Ankündigung über das Ende des Lebenszyklus nicht für Adobe Source Connectors gilt, die eine Datenerfassungsfunktion in Adobe Experience Platform sind. Adobe Source Connectors, gelegentlich auch als Adobe Data Connectors bezeichnet, werden von Adobe vollständig unterstützt.
 
 ## Warum hat Adobe diese Funktion eingestellt?
 
