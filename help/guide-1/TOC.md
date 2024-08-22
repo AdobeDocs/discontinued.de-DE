@@ -3,9 +3,9 @@ user-guide-title: Eingestellte Produkte für  [!DNL Adobe Experience Cloud]
 breadcrumb-title: Eingestellte Produkte
 user-guide-description: Liste eingestellter Produkte für  [!DNL Adobe Experience Cloud].
 source-git-commit: 6cd955bbc9556dd0f097bb1ee735321a26f252ee
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '37'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 86%
 + [Data Connectors](data-connectors.md)
 + [Data Workbench](data-workbench.md)
 + [Device Co-op](device-co-op.md)
-+ [Kanalmanager für Adobe Commerce](commerce-channels.md)
++ [Kanal-Manager für Adobe Commerce](commerce-channels.md)
 + [Experience Cloud-Bibliothek](experience-cloud-library.md)
 + [Experience Platform Auditor](auditor.md)
 + [Livefyre](livefyre.md)
