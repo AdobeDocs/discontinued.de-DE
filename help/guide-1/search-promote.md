@@ -1,5 +1,5 @@
 ---
-title: „Ankündigung über das Ende der Nutzungsdauer von [!DNL Adobe Search&Promote]“
+title: Ankündigung über das Ende der Nutzungsdauer von [!DNL Adobe Search&Promote]
 description: Erfahren Sie mehr zur Ankündigung über das Ende der Nutzungsdauer von  [!DNL Adobe Search&Promote] .
 exl-id: 1e062554-090b-4275-8595-8ae4233c58d7
 source-git-commit: d9284331dedc7534dbcaf6eb1b44a7506af5baa0

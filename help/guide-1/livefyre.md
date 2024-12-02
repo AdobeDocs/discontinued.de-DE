@@ -1,11 +1,11 @@
 ---
-title: '[!DNL Adobe Livefyre] Ende des Dienstes'
+title: Ende der Nutzungsdauer von [!DNL Adobe Livefyre]
 description: Livefyre-Erinnerung an das Ende der Nutzungsdauer für Livefyre und Livefyre Studio.
 exl-id: 696f6363-7b17-4a05-bde7-e43141ea84de
 source-git-commit: 05a624f7ba8863b50e86dac1ee5d92782be31737
 workflow-type: tm+mt
 source-wordcount: '229'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-op;Ende der Lebensdauer
-title: „Häufig gestellte Fragen zum Ende der Lebensdauer von [!DNL Device Co-op]“
+title: Häufig gestellte Fragen zum Ende der Lebensdauer von [!DNL Device Co-op]
 description: Erfahren Sie mehr über die Pläne zum Ende der Lebensdauer für Device Co-op.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
 source-git-commit: 4138a53d2aec43caba319de302593ed9ece36c38
