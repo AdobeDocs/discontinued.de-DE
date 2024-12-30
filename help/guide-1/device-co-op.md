@@ -4,7 +4,7 @@ title: Häufig gestellte Fragen zum Ende der Lebensdauer von [!DNL Device Co-op]
 description: Erfahren Sie mehr über die Pläne zum Ende der Lebensdauer für Device Co-op.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
 source-git-commit: f259a6d2bac47e9cf3a829017642119357208c7c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1053'
 ht-degree: 100%
 

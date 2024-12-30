@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Data Workbench] Ende der Lebensdauer'
+title: '[!DNL Data Workbench] Ende der Nutzungsdauer'
 description: In diesem Dokument werden häufig gestellte Fragen zum Ende der Lebensdauer von  [!DNL Data Workbench] behandelt.
 exl-id: 88a2c977-2c21-4bf8-9d58-24cb1ea2a075
 source-git-commit: d8a954bf197c87d3ef705bdf8bc67b9810c2502b

@@ -1,8 +1,8 @@
 ---
 source-git-commit: 26e874413e76cd8a31a7a6d716d6aa0cb5fe172e
-workflow-type: ht
-source-wordcount: '403'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 # Artikel beisteuern

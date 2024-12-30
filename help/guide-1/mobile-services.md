@@ -4,8 +4,8 @@ description: Erhalten Sie Antworten auf häufig gestellte Fragen zur Ankündigun
 exl-id: c5f44341-7b87-4530-b86e-17e2911a7959
 source-git-commit: 343e0a727c570c9eec503d7903d0477134fc6189
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
