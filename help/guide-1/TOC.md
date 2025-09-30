@@ -2,7 +2,7 @@
 user-guide-title: Eingestellte Produkte für  [!DNL Adobe Experience Cloud]
 breadcrumb-title: Eingestellte Produkte
 user-guide-description: Liste eingestellter Produkte für  [!DNL Adobe Experience Cloud].
-source-git-commit: bd6f031fa9a6eed369ab1b11166f143c36c2e8f0
+source-git-commit: fdd480beaeab4282f6c65510ff54c953ee9cadd5
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 70%
@@ -26,5 +26,5 @@ ht-degree: 70%
 + [Social](social.md)
 + [Store-Erfüllung für Adobe Commerce](commerce-store-fulfillment.md)
 + [Ausgeblendeter Test](hidden-test.md)
-+ [Ausgeblendeter Test 1.1](hidden-test-1.1.md)
++ [Ausgeblendeter Test 1.1](hidden-test-1-1.md)
 + [Beheben von ausgeblendeten Fehlern](hidden-troubleshooting.md)
