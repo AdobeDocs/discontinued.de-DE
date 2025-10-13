@@ -15,6 +15,6 @@ ht-degree: 0%
 Ausgeblendeter Test 1
 Testen: Vergewissern Sie sich, dass diese Änderung in allen lang-Repos angewendet wird.
 
-# Ausgeblendeter Titel
+&#x200B;# Ausgeblendeter Titel
 
 Validierung in Großbuchstaben
