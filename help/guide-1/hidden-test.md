@@ -7,9 +7,9 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 89046c442b4cc4af0b8d205e2aea0554db75720d
+source-git-commit: 8b8ef3148821e9e31eed78376597e30387663134
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Dies ist ein versteckter Test.  Er sollte nicht bei der Suche angezeigt werden.
 
 Bob war hier für die Sprint-Demo, und wieder, nachdem Lakshay die Bühne in die Produktion rollte…
 
-&#x200B;22. Oktober
+&#x200B;22. Oktober 2025
 
 ## Hover-Test {#this-is-a-heading-anchor}
 
