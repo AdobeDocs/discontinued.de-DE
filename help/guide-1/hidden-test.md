@@ -7,9 +7,9 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 1db1adaee009bf29b847f7d7b7c7e6f8e906cbf2
+source-git-commit: d8456b4db6630d3669d088ac89f8eaf365d42aad
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Dies ist ein versteckter Test.  Er sollte nicht bei der Suche angezeigt werden.
 
 Bob war hier für die Sprint-Demo, und wieder, nachdem Lakshay die Bühne in die Produktion rollte…
 
-&#x200B;22. Oktober, Bob und Sarika sind wieder da!
+&#x200B;22. Oktober, Bob und Sarika sind immer wieder hier!
 
 ## Hover-Test {#this-is-a-heading-anchor}
 
