@@ -2,7 +2,7 @@
 title: Übersicht über eingestellte  [!DNL Adobe Experience Cloud] -Produkte
 description: Übersicht über eingestellte, zurückgezogene oder sich am Ende ihrer Lebensdauer befindliche Produkte für  [!DNL Adobe Experience Cloud] und  [!DNL Adobe Experience Platform]
 exl-id: 4841f7b3-993b-4406-81b1-3fb3fbbff453
-source-git-commit: 3019dde6f05912926a1630f486fbe4c358ccf4ce
+source-git-commit: b8cacb7fbfa25083c87079bce67ee9c80c81ae84
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%
@@ -45,7 +45,7 @@ Adobe beendet mitunter den Verkauf, die Entwicklung oder den Support für ein Pr
 * *[!DNL Captivate Prime]* ist jetzt *[!DNL Adobe Learning Manager]*.
 * *[!DNL Bizible]* ist jetzt *[!DNL Marketo Measure]*.
 
-## Weitere eingestellte Produkte
+## Weitere eingestellte Produkte {#additional-products}
 
 * *[!DNL Adobe Bloodhound]* wurde am 1. Mai 2017 eingestellt.
 * *[!DNL AEM Mobile]* wurde am 3. April 2021 eingestellt. Siehe [Häufig gestellte Fragen zum Ende der Lebensdauer von AEM Mobile](https://helpx.adobe.com/de/digital-publishing-solution/help/aem-mobile-end-of-life-faq.html).
