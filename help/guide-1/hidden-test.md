@@ -7,10 +7,10 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: c8b449fadd96b59ed78668fd557bc4f1853820d3
+source-git-commit: 19ea79fc93e7d47d09dd8d96189578ef56c82314
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 1%
+source-wordcount: '94'
+ht-degree: 2%
 
 ---
 
@@ -22,7 +22,7 @@ Bob war für die Sprint-Demo hier und wieder, nachdem Lakshay die Bühne in die 
 
 Matt war hier - am 28. Oktober.
 
-&#x200B;29. Oktober 2025 - Bob und Sarika sind immer wieder und immer wieder hier!
+Slack-Benachrichtigung? 30. Oktober.
 
 ## Relative Links
 
