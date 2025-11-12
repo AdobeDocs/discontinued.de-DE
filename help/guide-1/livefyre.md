@@ -2,7 +2,7 @@
 title: Ende der Nutzungsdauer von [!DNL Adobe Livefyre]
 description: Livefyre-Erinnerung an das Ende der Nutzungsdauer für Livefyre und Livefyre Studio.
 exl-id: 696f6363-7b17-4a05-bde7-e43141ea84de
-source-git-commit: b4cb8ec97301294acfb8e4d03dcf75441c175d2b
+source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 93%
@@ -30,3 +30,4 @@ Nein, Livefyre wird am 30. November 2021 eingestellt. Adobe empfiehlt alternativ
 ### **_An wen kann ich mich wenden, um weitere Informationen zu erhalten?_**
 
 Wenden Sie sich bei Fragen an Ihren CSM (Customer Success Manager) oder Shelly Chiang (`schiang@adobe.com`).
+
