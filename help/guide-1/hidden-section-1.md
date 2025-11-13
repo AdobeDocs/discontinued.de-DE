@@ -1,11 +1,12 @@
 ---
 title: Ausgeblendeter Abschnitt 1 Test
 description: Dies ist ein versteckter Test 1
+auto-video-transcripts: false
 hide: true
 hidefromtoc: true
-source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
+source-git-commit: 78fd2d5e219c4acf0199d5bb527a3b5c3561def2
 workflow-type: tm+mt
-source-wordcount: '30'
+source-wordcount: '34'
 ht-degree: 0%
 
 ---
@@ -18,3 +19,10 @@ Testen: Vergewissern Sie sich, dass diese Änderung in allen lang-Repos angewend
 
 Matt war hier
 
+## Kein Transkript
+
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
+
+## Transkript wahr
+
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}

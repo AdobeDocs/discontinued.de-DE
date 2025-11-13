@@ -7,10 +7,10 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: d133a7318cfe4c77186b2de46fded4009b9b41e8
+source-git-commit: dde6a1c269865b6baec6e073a25a3dbd817d3d07
 workflow-type: tm+mt
-source-wordcount: '322'
-ht-degree: 0%
+source-wordcount: '100'
+ht-degree: 2%
 
 ---
 
@@ -20,28 +20,19 @@ Dies ist ein versteckter Test. Ich füge dieses `[` hinzu, um sicherzustellen, d
 
 &#x200B;12. November 2025
 
-## Fehlerhafter Tisch
+## Videotest
 
-**Original**
+### Einfaches Video ohne Transkript - sollte Transkript anzeigen, da metadata.md nach unten durchsickert
 
-| Aufgabe | Beschreibung |
-| -----------| ---------- |
-| [Implementieren des Experience Cloud ID-Service für Analytics](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html?lang=de) | Adobe empfiehlt außerdem das Festlegen zusätzlicher [Kunden-IDs](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=de). Diese IDs sind mit jedem Besucher verknüpft und ermöglichen aktuelle und zukünftige Funktionen in Experience Cloud. |
-| Aktualisieren Sie Ihr vorhandenes `s_code` auf Version H.27.3 oder höher oder Ihr vorhandenes `AppMeasurement.js` auf Version 1.4 oder höher. | Diese Dateien können über den [Code-Manager“ in den Admin Tools &#x200B;](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html?lang=de) Analytics heruntergeladen werden. (Das Handbuch zur Implementierung von [&#x200B; &#x200B;](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html?lang=de#js)JavaScript ist verfügbar, wenn Sie weitere Informationen zu `AppMeasurement.js` benötigen.) |
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
-**Zwei zusätzliche Leerzeichen**
+### Mit auf „true“ festgelegtem Transkript
 
-| Aufgabe | Beschreibung |
-| -----------| ---------- |
-| [Implementieren des Experience Cloud ID-Service für Analytics](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html?lang=de) | Adobe empfiehlt außerdem das Festlegen zusätzlicher [Kunden-IDs](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=de). Diese IDs sind mit jedem Besucher verknüpft und ermöglichen aktuelle und zukünftige Funktionen in Experience Cloud. |
-| Aktualisieren Sie Ihr vorhandenes `s_code` auf Version H.27.3 oder höher oder Ihr vorhandenes `AppMeasurement.js` auf Version 1.4 oder höher. | Diese Dateien können über den [Code-Manager“ in den Admin Tools &#x200B;](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html?lang=de) Analytics heruntergeladen werden. (Das Handbuch zur Implementierung von [&#x200B; &#x200B;](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html?lang=de#js)JavaScript ist verfügbar, wenn Sie weitere Informationen zu `AppMeasurement.js` benötigen.) |
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
 
-**Zusätzliche Leerzeichen, aber nicht nach Kopfzeilenteiler**
+### Wenn das Transkript auf „false“ gesetzt ist, sollte das Videotranskript nicht angezeigt werden.
 
-| Aufgabe | Beschreibung |
-| -----------| ---------- |
-| [Implementieren des Experience Cloud ID-Service für Analytics](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html?lang=de) | Adobe empfiehlt außerdem das Festlegen zusätzlicher [Kunden-IDs](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=de). Diese IDs sind mit jedem Besucher verknüpft und ermöglichen aktuelle und zukünftige Funktionen in Experience Cloud. |
-| Aktualisieren Sie Ihr vorhandenes `s_code` auf Version H.27.3 oder höher oder Ihr vorhandenes `AppMeasurement.js` auf Version 1.4 oder höher. | Diese Dateien können über den [Code-Manager“ in den Admin Tools &#x200B;](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html?lang=de) Analytics heruntergeladen werden. (Das Handbuch zur Implementierung von [&#x200B; &#x200B;](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html?lang=de#js)JavaScript ist verfügbar, wenn Sie weitere Informationen zu `AppMeasurement.js` benötigen.) |
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## Relative Links
 
