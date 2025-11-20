@@ -7,9 +7,9 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: ba551c3fc7714cce505ba95fe83e8608381d1f2c
+source-git-commit: 9fa70e77b7c9658f618410ab6045fa680df606e0
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
@@ -20,21 +20,23 @@ Dies ist ein versteckter Test. Ich füge dieses `[` hinzu, um sicherzustellen, d
 
 ## In neuer Registerkarte öffnen
 
-`[See What's new](auditor.md){target="_blank"} `
+`[See What's new](auditor.md) {target="_blank"}`
 
 [In derselben Registerkarte öffnen](auditor.md)
 
-[Neue Registerkarte mit Leerzeichen in Anführungszeichen](auditor.md){target="_blank"} 
+[Neue Registerkarte mit Leerzeichen in Anführungszeichen](auditor.md) {target="_blank"}
 
 [Neue Registerkarte mit Anker](auditor.md#_blank)
 
 [Neue Registerkarte ohne Leerzeichen mit Anführungszeichen](auditor.md){target="_blank"}
 
-[Neue Registerkarte mit Leerzeichen ohne Anführungszeichen](auditor.md){target=_blank} 
+[Neue Registerkarte mit Leerzeichen ohne Anführungszeichen](auditor.md) {target=_blank}
 
 [Neue Registerkarte ohne Leerzeichen ohne Anführungszeichen](auditor.md){target=_blank}
 
 [Neue Registerkarte mit Deep-Link](commerce-channels.md#channel-manager-extension){target="_blank"}
+
+[Neue Registerkarte mit Deep-Link verankern](commerce-channels.md#channel-manager-extension#_blank)
 
 [Neue Registerkarte mit externem Link](https://www.adobe.com){target="_blank"}
 
@@ -82,15 +84,15 @@ Diese Zeile ist nach dem Kommentar.
 
 ### Einfaches Video ohne Transkript - sollte Transkript anzeigen, da metadata.md nach unten durchsickert
 
->[!VIDEO](https://video.tv.adobe.com/v/3415782?captions=ger&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ### Mit auf „true“ festgelegtem Transkript
 
->[!VIDEO](https://video.tv.adobe.com/v/3415782?captions=ger&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
 
 ### Wenn das Transkript auf „false“ gesetzt ist, sollte das Videotranskript nicht angezeigt werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415782?captions=ger&hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## Relative Links
 
