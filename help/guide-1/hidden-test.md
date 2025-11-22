@@ -7,7 +7,7 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: c90ddaf54a79c88d90cf7c699d48e647867a1d1a
+source-git-commit: 8c80f9c127f13aa2b5dbf860bd099b46e3321cbf
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 0%
@@ -20,23 +20,23 @@ Dies ist ein versteckter Test. Ich füge dieses `[` hinzu, um sicherzustellen, d
 
 ## In neuer Registerkarte öffnen
 
-`[See What's new](auditor.md){target="_blank"} `
+`[See What's new](auditor.md) {target="_blank"}`
 
 [In derselben Registerkarte öffnen](auditor.md)
 
-[Neue Registerkarte mit Leerzeichen in Anführungszeichen](auditor.md){target="_blank"} 
+[Neue Registerkarte mit Leerzeichen in Anführungszeichen](auditor.md) {target="_blank"}
 
 [Neue Registerkarte mit Anker](auditor.md#_blank)
 
 [Neue Registerkarte ohne Leerzeichen mit Anführungszeichen](auditor.md){target="_blank"}
 
-[Neue Registerkarte mit Leerzeichen ohne Anführungszeichen](auditor.md){target=_blank} 
+[Neue Registerkarte mit Leerzeichen ohne Anführungszeichen](auditor.md) {target=_blank}
 
 [Neue Registerkarte ohne Leerzeichen ohne Anführungszeichen](auditor.md){target=_blank}
 
 [Neue Registerkarte mit Deep-Link](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[Neue Registerkarte mit Deep-Link verankern](https://experienceleague.adobe.com/de/docs/analytics/analyze/home#key-analytics-resources#_blank)
+[Neue Registerkarte mit Deep-Link verankern](https://experienceleague.adobe.com/en/docs/analytics/analyze/home#key-analytics-resources#_blank)
 
 [Neue Registerkarte mit externem Link](https://www.adobe.com){target="_blank"}
 
@@ -62,6 +62,13 @@ Dies ist ein versteckter Test. Ich füge dieses `[` hinzu, um sicherzustellen, d
 
 &#x200B;18. November 2025
 
+<!-- ## Comment with basic text
+
+This is a new line.
+
+Second new line. -->
+
+
 Kommentar unten. Wenn dies das letzte ist, was Sie in diesem Artikel sehen, ist es aufgrund der Kommentarsyntax.
 
 1. Klicken Sie **[!UICONTROL Erstellen]**.
@@ -84,15 +91,15 @@ Diese Zeile ist nach dem Kommentar.
 
 ### Einfaches Video ohne Transkript - sollte Transkript anzeigen, da metadata.md nach unten durchsickert
 
->[!VIDEO](https://video.tv.adobe.com/v/3415782?captions=ger&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ### Mit auf „true“ festgelegtem Transkript
 
->[!VIDEO](https://video.tv.adobe.com/v/3415782?captions=ger&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
 
 ### Wenn das Transkript auf „false“ gesetzt ist, sollte das Videotranskript nicht angezeigt werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415782?captions=ger&hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## Relative Links
 
