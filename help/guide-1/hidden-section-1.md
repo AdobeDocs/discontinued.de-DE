@@ -4,7 +4,7 @@ description: Dies ist ein versteckter Test 1
 auto-video-transcripts: false
 hide: true
 hidefromtoc: true
-source-git-commit: 7f152c467b1805a0f5b47f4dd29b00ee3130d8ef
+source-git-commit: bc2e4de9631fd091c6438c59ab51b1dbad607531
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -13,8 +13,7 @@ ht-degree: 0%
 
 # Ausgeblendeter Abschnitt Test 1
 
-
-&#x200B;18. November 2025
+&#x200B;24. November 2025
 
 1. Hier gehen
 
@@ -52,8 +51,8 @@ Matt war hier
 
 ## Kein Transkript
 
->[!VIDEO](https://video.tv.adobe.com/v/3415782?captions=ger&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ## Transkript wahr
 
->[!VIDEO](https://video.tv.adobe.com/v/3415782?captions=ger&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
