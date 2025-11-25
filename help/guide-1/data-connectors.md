@@ -2,16 +2,16 @@
 description: Erfahren Sie mehr über die Einstellung von Adobe Analytics Data Connectors-Integrationen.
 title: Ende des Lebenszyklus von Analytics Data Connectors-Integrationen
 exl-id: b407675a-9fcf-4f24-bc88-69ccdb5b3658
-source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
+source-git-commit: 37c91c7a347feb988d535eec0dfc2ec6ba94ddd3
 workflow-type: tm+mt
 source-wordcount: '294'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
 # Ende des Lebenszyklus von Adobe Data Connectors-Integrationen
 
-**Mit Wirkung vom 19. August 2021**, hat Adobe die Data Connectors-Integrationen eingestellt und durch [Adobe Exchange Marketplace](https://exchange.adobe.com/experiencecloud.analytics.html?lang=de#product) ersetzt. Adobe beabsichtigt, den Übergang für Kundinnen und Kunden sowie Partner so nahtlos wie möglich zu gestalten.
+**Mit Wirkung vom 19. August 2021**, hat Adobe die Data Connectors-Integrationen eingestellt und durch [Adobe Exchange Marketplace](https://exchange.adobe.com/apps/browse/ec?listingType=applications&page=1&partnerLevel=All&product=ANLYTC&sort=RELEVANCE) ersetzt. Adobe beabsichtigt, den Übergang für Kundinnen und Kunden sowie Partner so nahtlos wie möglich zu gestalten.
 
 Das Ziel von Adobe Analytics ist es, erstklassige Web- und Marketing-Analysen bereitzustellen, um die Anforderungen von Kundinnen und Kunden zu erfüllen. Im Zuge der Entwicklung von Technologie- und Geschäftsanforderungen bemüht sich Adobe ständig, die höchsten Standards zu erfüllen. Die APIs, die Data Connectors-Integrationen unterstützen, erfüllen diese Standards nicht mehr und sind in der modernen Technologieinfrastruktur von Adobe nicht mehr haltbar.
 
@@ -19,7 +19,7 @@ Beachten Sie, dass diese Ankündigung über das Ende des Lebenszyklus nicht für
 
 ## Warum hat Adobe diese Funktion eingestellt?
 
-Diese Funktion basiert auf einer älteren Technologie, die nicht mehr umsetzbar ist oder unterstützt wird. [Adobe Exchange Marketplace](https://exchange.adobe.com/experiencecloud.analytics.html?lang=de#product) ist jetzt der Ort, um aktuelle Integrationen für Adobe-Lösungen zu finden.
+Diese Funktion basiert auf einer älteren Technologie, die nicht mehr umsetzbar ist oder unterstützt wird. [Adobe Exchange Marketplace](https://exchange.adobe.com/apps/browse/ec?listingType=applications&page=1&partnerLevel=All&product=ANLYTC&sort=RELEVANCE) ist jetzt der Ort, um aktuelle Integrationen für Adobe-Lösungen zu finden.
 
 ## Wie wirkt sich die Entfernung dieser Funktion auf Sie aus?
 
