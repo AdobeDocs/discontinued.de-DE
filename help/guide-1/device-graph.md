@@ -2,7 +2,7 @@
 keywords: Device-graph;Ende der Lebensdauer
 title: Gerätediagramm
 description: Erfahren Sie mehr über die End-of-Life-Pläne für das Gerätediagramm.
-source-git-commit: c7264d94e52fb3efad7d59edd1b73f805a9a00f6
+source-git-commit: 8eb82ca4e8e4585ddc2edbba0de486c700a465bc
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -14,7 +14,6 @@ ht-degree: 0%
 >[!WARNING]
 >
 >Das Gerätediagramm in der geräteübergreifenden Analyse ist ab dem 31. **2025 nicht mehr**. Wechseln Sie alle aktuellen für Gerätediagramme aktivierten Virtual Report Suites in die [feldbasierte Methode](https://experienceleague.adobe.com/de/docs/analytics/components/cda/field-based-stitching).
->
 
 Die geräteübergreifende Analyse verwendete das private Diagramm nicht, um Daten zusammenzufügen. Das private Diagramm ist ein Repository mit gehashten Geräte-IDs, das speziell für Ihre Organisation gilt. Die geräteübergreifende Analyse kommuniziert regelmäßig mit dem Gerätediagramm, um Geräte miteinander zu verknüpfen.
 
@@ -25,7 +24,6 @@ Wenn Sie die geräteübergreifende Analyse mit der Methode „Device Graph“ im
 >[!WARNING]
 >
 >Wenn nicht alle Voraussetzungen erfüllt sind, kann die geräteübergreifende Analyse nicht aktiviert werden oder es können beim Zusammenfügen von Daten schlechte Ergebnisse erzielt werden.
->
 
 * Ihr Unternehmen muss das private Diagramm [Adobe Experience Platform Identity Service verwenden](https://business.adobe.com/de/products/experience-platform/identity-service.html). Siehe auch [Startseite](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=de) im Identity Service-Benutzerhandbuch.
 * Ihre Implementierung muss die neueste Version des Experience Cloud ID-Service (ECID) verwenden. Siehe die [Startseite](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=de) im Benutzerhandbuch für den ID-Service. Bei den meisten Implementierungen mit [Tags](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=de) in Adobe Experience Platform ist der ID-Service wahrscheinlich bereits bereitgestellt.
