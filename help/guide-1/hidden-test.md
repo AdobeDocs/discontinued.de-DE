@@ -7,20 +7,20 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: aea0c9a349edb53c36f4b878d9e41447ca118242
+source-git-commit: b22201b34762b11d4a8cdd4b80e9be2b950d311f
 workflow-type: tm+mt
 source-wordcount: '213'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
 # Ausgeblendeter Test
 
-&#x200B;2. Dezember
+&#x200B;8. Januar
 
 Dies ist ein versteckter Test. Ich füge dieses `[` hinzu, um sicherzustellen, dass es beim v2-Rendering funktioniert!
 
-## In neuer Registerkarte öffnen {#section_92882928}
+## In neuem Tab öffnen {#section_92882928}
 
 `[See What's new](auditor.md){target="_blank"} `
 
@@ -73,7 +73,7 @@ Second new line. -->
 
 Kommentar unten. Wenn dies das letzte ist, was Sie in diesem Artikel sehen, ist es aufgrund der Kommentarsyntax.
 
-1. Klicken Sie **[!UICONTROL Erstellen]**.
+1. Klicken Sie auf **[!UICONTROL Erstellen]**.
 
 <!-- ## Create an exclusion using Advanced Search
 
@@ -123,7 +123,7 @@ Kein Hover-Text
 ![alt text](assets/maui-flip.jpg)
 ```
 
-![ALT-Text](assets/maui-flip.jpg)
+![Alternativtext](assets/maui-flip.jpg)
 
 
 Ja Hover-Text
