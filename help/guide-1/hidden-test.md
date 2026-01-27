@@ -7,7 +7,7 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: d246aa050c2e8304709fadaddf93a6b70a661b82
+source-git-commit: f6e3d17e221850a71617abfb9f5e75c0e26b362f
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 7%
@@ -16,7 +16,7 @@ ht-degree: 7%
 
 # Ausgeblendeter Test
 
-&#x200B;8. Januar - Bob
+&#x200B;26. Januar - Bob
 
 Dies ist ein versteckter Test. Ich füge dieses `[` hinzu, um sicherzustellen, dass es beim v2-Rendering funktioniert!
 
@@ -73,7 +73,7 @@ Second new line. -->
 
 Kommentar unten. Wenn dies das letzte ist, was Sie in diesem Artikel sehen, ist es aufgrund der Kommentarsyntax.
 
-1. Klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Wählen Sie **[!UICONTROL Erstellen]** aus.
 
 <!-- ## Create an exclusion using Advanced Search
 
