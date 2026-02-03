@@ -18,23 +18,23 @@ ht-degree: 7%
 # Ausgeblendeter Test
 
 &#x200B;2. Februar 2026 - `hold: true` ist aktiv. Oh, es geht so weiter!
-3. Februar 2026 - Matt
+&#x200B;3. Februar 2026 - Matt
 
 Dies ist ein versteckter Test. Ich füge dieses `[` hinzu, um sicherzustellen, dass es beim v2-Rendering funktioniert!
 
 ## In neuem Tab öffnen {#section_92882928}
 
-`[See What's new](auditor.md) {target="_blank"}`
+`[See What's new](auditor.md){target="_blank"} `
 
 [In derselben Registerkarte öffnen](auditor.md)
 
-[Neue Registerkarte mit Leerzeichen in Anführungszeichen](auditor.md) {target="_blank"}
+[Neue Registerkarte mit Leerzeichen in Anführungszeichen](auditor.md){target="_blank"} 
 
 [Neue Registerkarte mit Anker](auditor.md){target=„_blank}
 
 [Neue Registerkarte ohne Leerzeichen mit Anführungszeichen](auditor.md){target="_blank"}
 
-[Neue Registerkarte mit Leerzeichen ohne Anführungszeichen](auditor.md) {target=_blank}
+[Neue Registerkarte mit Leerzeichen ohne Anführungszeichen](auditor.md){target=_blank} 
 
 [Neue Registerkarte ohne Leerzeichen ohne Anführungszeichen](auditor.md){target=_blank}
 
