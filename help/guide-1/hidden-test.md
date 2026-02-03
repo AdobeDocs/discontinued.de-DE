@@ -6,17 +6,18 @@ hidefromtoc: true
 landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
+hold: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: f6e3d17e221850a71617abfb9f5e75c0e26b362f
+source-git-commit: 63aefd6f99f007e4cfa78361402f24f0dabae35e
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '220'
 ht-degree: 7%
 
 ---
 
 # Ausgeblendeter Test
 
-&#x200B;26. Januar - Bob
+&#x200B;2. Februar 2026 - `hold: true` ist aktiv. Oh, es geht so weiter!
 
 Dies ist ein versteckter Test. Ich füge dieses `[` hinzu, um sicherzustellen, dass es beim v2-Rendering funktioniert!
 
@@ -150,4 +151,3 @@ Gerendert:
 -->
 
 Bob: Entfernen Sie den Folienkommentar, sobald Sie das Thema loc-Sache testen.
-

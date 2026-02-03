@@ -4,16 +4,17 @@ description: Dies ist ein versteckter Test 1
 auto-video-transcripts: false
 hide: true
 hidefromtoc: true
-source-git-commit: bc2e4de9631fd091c6438c59ab51b1dbad607531
+hold: true
+source-git-commit: 63aefd6f99f007e4cfa78361402f24f0dabae35e
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 0%
+source-wordcount: '66'
+ht-degree: 3%
 
 ---
 
 # Ausgeblendeter Abschnitt Test 1
 
-&#x200B;24. November 2025
+&#x200B;3. Februar 2026
 
 1. Hier gehen
 
@@ -26,7 +27,7 @@ Second new line. -->
 
 Kommentar unten. Wenn dies das letzte ist, was Sie in diesem Artikel sehen, ist es aufgrund der Kommentarsyntax.
 
-1. Klicken Sie **[!UICONTROL Erstellen]**.
+1. Wählen Sie **[!UICONTROL Erstellen]** aus.
 
 <!-- ## Create an exclusion using Advanced Search
 
