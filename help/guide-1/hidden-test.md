@@ -6,39 +6,40 @@ hidefromtoc: true
 landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
+hold: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: f6e3d17e221850a71617abfb9f5e75c0e26b362f
+source-git-commit: 63aefd6f99f007e4cfa78361402f24f0dabae35e
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '220'
 ht-degree: 7%
 
 ---
 
 # Ausgeblendeter Test
 
-&#x200B;26. Januar - Bob
+&#x200B;2. Februar 2026 - `hold: true` ist aktiv. Oh, es geht so weiter!
 
 Dies ist ein versteckter Test. Ich füge dieses `[` hinzu, um sicherzustellen, dass es beim v2-Rendering funktioniert!
 
 ## In neuem Tab öffnen {#section_92882928}
 
-`[See What's new](auditor.md){target="_blank"} `
+`[See What's new](auditor.md) {target="_blank"}`
 
 [In derselben Registerkarte öffnen](auditor.md)
 
-[Neue Registerkarte mit Leerzeichen in Anführungszeichen](auditor.md){target="_blank"} 
+[Neue Registerkarte mit Leerzeichen in Anführungszeichen](auditor.md) {target="_blank"}
 
 [Neue Registerkarte mit Anker](auditor.md){target=„_blank}
 
 [Neue Registerkarte ohne Leerzeichen mit Anführungszeichen](auditor.md){target="_blank"}
 
-[Neue Registerkarte mit Leerzeichen ohne Anführungszeichen](auditor.md){target=_blank} 
+[Neue Registerkarte mit Leerzeichen ohne Anführungszeichen](auditor.md) {target=_blank}
 
 [Neue Registerkarte ohne Leerzeichen ohne Anführungszeichen](auditor.md){target=_blank}
 
 [Neue Registerkarte mit Deep-Link](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[Neue Registerkarte mit Deep-Link verankern](https://experienceleague.adobe.com/de/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
+[Neue Registerkarte mit Deep-Link verankern](https://experienceleague.adobe.com/en/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
 [Neue Registerkarte mit externem Link](https://www.adobe.com){target="_blank"}
 
@@ -93,15 +94,15 @@ Diese Zeile ist nach dem Kommentar.
 
 ### Einfaches Video ohne Transkript - sollte Transkript anzeigen, da metadata.md nach unten durchsickert
 
->[!VIDEO](https://video.tv.adobe.com/v/3415782?captions=ger&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ### Mit auf „true“ festgelegtem Transkript
 
->[!VIDEO](https://video.tv.adobe.com/v/3415782?captions=ger&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
 
 ### Wenn das Transkript auf „false“ gesetzt ist, sollte das Videotranskript nicht angezeigt werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415782?captions=ger&hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## Relative Links
 
@@ -150,4 +151,3 @@ Gerendert:
 -->
 
 Bob: Entfernen Sie den Folienkommentar, sobald Sie das Thema loc-Sache testen.
-
