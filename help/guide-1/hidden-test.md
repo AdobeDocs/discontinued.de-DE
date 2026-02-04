@@ -8,17 +8,16 @@ landing-page-name: experience-manager-65
 feature: Annotations
 hold: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: f38dd5701562d9e51256c50f766c7b03f253f279
+source-git-commit: d0d9f9e59e9186c39307a3e2a6695de89aadab05
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '216'
 ht-degree: 7%
 
 ---
 
 # Ausgeblendeter Test
 
-&#x200B;2. Februar 2026 - `hold: true` ist aktiv. Oh, es geht so weiter!
-&#x200B;3. Februar 2026 - Matt
+&#x200B;4. Februar 2026 - `hold: true` ist aktiv.
 
 Dies ist ein versteckter Test. Ich füge dieses `[` hinzu, um sicherzustellen, dass es beim v2-Rendering funktioniert!
 
