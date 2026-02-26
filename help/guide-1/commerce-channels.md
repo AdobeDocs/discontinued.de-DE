@@ -1,8 +1,9 @@
 ---
 title: Kanäle für Adobe Commerce
 description: Erfahren Sie, wann der Amazon-Vertriebskanal und Kanal-Manager-Erweiterungen für Adobe Commerce das Ende des Lebenszyklus erreicht haben.
+hold: true
 exl-id: 40ff120b-4f37-4ef6-a3ad-e7ee67dd3e23
-source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
+source-git-commit: d6a0342750804a56c686c966801c411090b9672a
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 100%
@@ -28,4 +29,3 @@ Wenn Sie alternative Lösungen suchen, empfiehlt Adobe, sich die Partnerlösunge
 Mit Wirkung zum 1. Juli 2024 hat Adobe die Kanal-Manager-Erweiterung und die zugehörige Integration in Walmart Marketplace eingestellt. Die Kanal-Manager-Erweiterung ist nicht mehr über Adobe Commerce Marketplace verfügbar.
 
 Wenn Sie alternative Lösungen suchen, empfiehlt Adobe, sich die Partnerlösungen und Drittanbietererweiterungen anzusehen, die in [Adobe Commerce Marketplace](https://commercemarketplace.adobe.com/) verfügbar sind, um die für Ihre Anforderungen am besten geeignete Lösung zu finden.
-
