@@ -26,5 +26,5 @@ ht-degree: 64%
 + [Search&amp;Promote](/help/guide-1/search-promote.md)
 + [Social](/help/guide-1/social.md)
 + [Store-Erfüllung für Adobe Commerce](/help/guide-1/commerce-store-fulfillment.md)
-+ {hide-from-toc}[Ausgeblendeter Test - Februar](/help/guide-1/hidden-test.md)
-+ {hide-from-toc}[Ausgeblendeter Test - neu](hidden-section-1.md)
++ [hide-from-tocAusgeblendeter Test - Februar](/help/guide-1/hidden-test.md)
++ [hide-from-tocAusgeblendeter Test - neu](hidden-section-1.md)
