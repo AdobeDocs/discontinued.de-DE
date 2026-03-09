@@ -20,8 +20,8 @@ November 24
 
 ## Kein Transkript
 
->[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/3415782?captions=ger&hidetitle=true){transcript=false}
 
 ## Transkript wahr
 
->[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3415782?captions=ger&hidetitle=true){transcript=true}
