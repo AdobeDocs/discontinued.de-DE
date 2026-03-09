@@ -8,7 +8,7 @@ landing-page-name: analytics
 source-git-commit: aed53029027389bf0494166cd7c32d5145cd7251
 workflow-type: tm+mt
 source-wordcount: '23'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Ausgeblendeter Test 2
 
-&#x200B;24. November
+November 24
 
 ## Kein Transkript
 
