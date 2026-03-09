@@ -5,7 +5,7 @@ auto-video-transcripts: false
 hide: true
 hidefromtoc: true
 hold: true
-source-git-commit: d6a0342750804a56c686c966801c411090b9672a
+source-git-commit: 89758ac0005261dbe337b88dbce4eae9edaedd1f
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 3%
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 # Ausgeblendeter Abschnitt Test 1
 
-&#x200B;26. Februar 2026
+&#x200B;9. März 2026
 
 1. Hier gehen
 
@@ -52,8 +52,8 @@ Matt war hier
 
 ## Kein Transkript
 
->[!VIDEO](https://video.tv.adobe.com/v/3415782?captions=ger&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ## Transkript wahr
 
->[!VIDEO](https://video.tv.adobe.com/v/3415782?captions=ger&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
