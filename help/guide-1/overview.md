@@ -2,9 +2,9 @@
 title: Übersicht über eingestellte  [!DNL Adobe Experience Cloud] -Produkte
 description: Übersicht über eingestellte, zurückgezogene oder sich am Ende ihrer Lebensdauer befindliche Produkte für  [!DNL Adobe Experience Cloud] und  [!DNL Adobe Experience Platform]
 exl-id: 4841f7b3-993b-4406-81b1-3fb3fbbff453
-source-git-commit: d6a0342750804a56c686c966801c411090b9672a
+source-git-commit: 35b52c4a479357f2cae2fdd218c6860653803b8f
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '143'
 ht-degree: 100%
 
 ---
@@ -54,3 +54,4 @@ Adobe beendet mitunter den Verkauf, die Entwicklung oder den Support für ein Pr
 >[!MORELIKETHIS]
 >
 >Eine Liste weiterer eingestellter Adobe-Apps und -Services finden Sie unter [Kostenlose und eingestellte Produkte | Support-Optionen](https://helpx.adobe.com/de/support/programs/support-options-free-discontinued-apps-services.html).
+
