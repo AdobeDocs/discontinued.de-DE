@@ -3,16 +3,16 @@ title: Ausgeblendeter Abschnitt 1 Test
 description: Dies ist ein versteckter Test 1
 auto-video-transcripts: false
 hide: true
-source-git-commit: 8d2e39e354962d6a04ba48d33c834e885641b2e1
+source-git-commit: 27c6d4270e5a27cc4a95e28625c3f20997f87646
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '71'
 ht-degree: 2%
 
 ---
 
 # Ausgeblendeter Abschnitt Test 1
 
-&#x200B;10. März 2026 - Keine `hold: true` für diesen Artikel
+&#x200B;10. März 2026, 9:25 - Keine `hold: true` für diesen Artikel
 
 1. Hier gehen
 
@@ -50,8 +50,8 @@ Matt war hier
 
 ## Kein Transkript
 
->[!VIDEO](https://video.tv.adobe.com/v/3415782?captions=ger&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ## Transkript wahr
 
->[!VIDEO](https://video.tv.adobe.com/v/3415782?captions=ger&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
