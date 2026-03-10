@@ -2,10 +2,11 @@
 keywords: Device-graph;Ende der Lebensdauer
 title: Gerätediagramm
 description: Erfahren Sie mehr über die End-of-Life-Pläne für das Gerätediagramm.
-source-git-commit: 8eb82ca4e8e4585ddc2edbba0de486c700a465bc
+hold: true
+source-git-commit: 0ebe153e886f375683ff3fc3a06514617988894b
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 0%
+source-wordcount: '335'
+ht-degree: 4%
 
 ---
 
@@ -33,4 +34,4 @@ Wenn Sie die geräteübergreifende Analyse mit der Methode „Device Graph“ im
 
 * Legacy-Analytics-IDs werden nicht unterstützt. Nur Besucherinnen und Besucher mit Experience Cloud IDs werden zugeordnet.
 * Wenn Ihr Unternehmen ein privates Diagramm verwendet, dauert es bis zu 24 Stunden, bis neue Geräte zugeordnet werden.
-* Gerätediagramme von Drittanbietern werden nicht unterstützt.
+* Diagramme von Drittanbietergeräten werden nicht unterstützt.
