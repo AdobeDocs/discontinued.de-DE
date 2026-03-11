@@ -2,9 +2,9 @@
 title: Ankündigung über das Ende der Nutzungsdauer von [!DNL Adobe Search&Promote]
 description: Erfahren Sie mehr zur Ankündigung über das Ende der Nutzungsdauer von  [!DNL Adobe Search&Promote] .
 exl-id: 1e062554-090b-4275-8595-8ae4233c58d7
-source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
+source-git-commit: d53fd34daae5dd4141563732cf0458f0e2f2af91
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '174'
 ht-degree: 100%
 
 ---
@@ -25,11 +25,13 @@ Suchvorgänge und andere API-Anfragen an [!DNL Search&Promote] geben keine Ergeb
 
 Ja. Zur Produkt- und Commerce-Suche ist [Live Search von [!DNL Adobe Commerce]](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/guide-overview.html?lang=de) die Adobe-Suchanwendung für die Zukunft.
 
-<!-- ### **_Can Adobe recommend any frameworks or platforms that offer features similar to Search&Promote?_**
+<!-- 
+### **_Can Adobe recommend any frameworks or platforms that offer features similar to Search&Promote?_**
 
-  Yes. If the Search&Promote feature is critical to your marketing strategy, consider the many open-source frameworks that exist to power search, including [Apache Solr](https://solr.apache.org/) and [Elastic Free and Open](https://www.elastic.co/about/free-and-open).  
+Yes. If the Search&Promote feature is critical to your marketing strategy, consider the many open-source frameworks that exist to power search, including [Apache Solr](https://solr.apache.org/) and [Elastic Free and Open](https://www.elastic.co/about/free-and-open).  
 
-  Also, both [AWS](https://aws.amazon.com/cloudsearch/) and [Microsoft&reg; Azure](https://azure.microsoft.com/en-us/services/search/) provide cloud-native search capabilities on their respective cloud platforms. You can integrate both options into Adobe Experience Manager Sites to power site search and more. -->
+Also, both [AWS](https://aws.amazon.com/cloudsearch/) and [Microsoft&reg; Azure](https://azure.microsoft.com/en-us/services/search/) provide cloud-native search capabilities on their respective cloud platforms. You can integrate both options into Adobe Experience Manager Sites to power site search and more.
+-->
 
 ### **_An wen kann ich mich wenden, um mehr zu erfahren?_**
 
