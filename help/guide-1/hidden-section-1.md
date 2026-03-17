@@ -3,7 +3,8 @@ title: Ausgeblendeter Abschnitt 1 Test
 description: Dies ist ein versteckter Test 1
 auto-video-transcripts: false
 hide: true
-source-git-commit: 7b43cece7f0c1ab1f7b4dcc6fd445be6ba0c6e8a
+index: false
+source-git-commit: 0d0c957441babe95bad242da4b1249f8019615d1
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 2%
@@ -67,8 +68,8 @@ Matt war hier
 
 ## Kein Transkript
 
->[!VIDEO](https://video.tv.adobe.com/v/3415782?captions=ger&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ## Transkript wahr
 
->[!VIDEO](https://video.tv.adobe.com/v/3415782?captions=ger&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}

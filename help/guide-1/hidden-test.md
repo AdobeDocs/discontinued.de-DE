@@ -2,21 +2,20 @@
 title: Ausgeblendeter Test
 description: Dies ist ein versteckter Test
 hide: true
-hidefromtoc: true
 landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 7f84f2196a1a3a477c05f803eff3cc8eae6b0678
+source-git-commit: 0d0c957441babe95bad242da4b1249f8019615d1
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '234'
 ht-degree: 8%
 
 ---
 
 # Ausgeblendeter Test
 
-&#x200B;10. März 2026, 9:25 - `hold: true` ist aus.
+&#x200B;17. März 2026 - `hold: true` ist aus.
 
 Testen eines neuen Schlüssels
 
@@ -24,23 +23,23 @@ Dies ist ein versteckter Test. Ich füge dieses `[` hinzu, um sicherzustellen, d
 
 ## In neuem Tab öffnen {#section_92882928}
 
-`[See What's new](auditor.md){target="_blank"} `
+`[See What's new](auditor.md) {target="_blank"}`
 
 [In derselben Registerkarte öffnen](auditor.md)
 
-[Neue Registerkarte mit Leerzeichen in Anführungszeichen](auditor.md){target="_blank"} 
+[Neue Registerkarte mit Leerzeichen in Anführungszeichen](auditor.md) {target="_blank"}
 
 [Neue Registerkarte mit Anker](auditor.md){target=„_blank}
 
 [Neue Registerkarte ohne Leerzeichen mit Anführungszeichen](auditor.md){target="_blank"}
 
-[Neue Registerkarte mit Leerzeichen ohne Anführungszeichen](auditor.md){target=_blank} 
+[Neue Registerkarte mit Leerzeichen ohne Anführungszeichen](auditor.md) {target=_blank}
 
 [Neue Registerkarte ohne Leerzeichen ohne Anführungszeichen](auditor.md){target=_blank}
 
 [Neue Registerkarte mit Deep-Link](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[Neue Registerkarte mit Deep-Link verankern](https://experienceleague.adobe.com/de/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
+[Neue Registerkarte mit Deep-Link verankern](https://experienceleague.adobe.com/en/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
 [Neue Registerkarte mit externem Link](https://www.adobe.com){target="_blank"}
 
@@ -99,15 +98,15 @@ Diese Zeile ist nach dem Kommentar.
 
 ### Einfaches Video ohne Transkript - sollte Transkript anzeigen, da metadata.md nach unten durchsickert
 
->[!VIDEO](https://video.tv.adobe.com/v/3415782?captions=ger&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ### Mit auf „true“ festgelegtem Transkript
 
->[!VIDEO](https://video.tv.adobe.com/v/3415782?captions=ger&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
 
 ### Wenn das Transkript auf „false“ gesetzt ist, sollte das Videotranskript nicht angezeigt werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415782?captions=ger&hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## Relative Links
 
