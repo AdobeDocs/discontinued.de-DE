@@ -2,9 +2,9 @@
 title: Häufig gestellte Fragen zum Ende der Lebensdauer von Adobe Mobile Services
 description: Erhalten Sie Antworten auf häufig gestellte Fragen zur Ankündigung des Endes der Lebensdauer von Adobe Mobile Services.
 exl-id: c5f44341-7b87-4530-b86e-17e2911a7959
-source-git-commit: 37c91c7a347feb988d535eec0dfc2ec6ba94ddd3
+source-git-commit: 726b038bfeaf84d7b3ba786e716dff41446d5578
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '450'
 ht-degree: 97%
 
 ---
@@ -44,4 +44,3 @@ Adobe bietet je nach Anwendungsfall Ihres Unternehmens drei Übergangswege an.
 ## Wohin kann ich mich wenden, wenn ich Fragen habe?
 
 Weitere Informationen erhlaten Sie auf der [Spark-Seite zum Ende der Lebensdauer von Adobe Mobile Services](https://spark.adobe.com/page/C6D30y09zaRpD/). Wenden Sie sich bei weiteren Fragen an Ihren Adobe-Support-Kontakt.
-
