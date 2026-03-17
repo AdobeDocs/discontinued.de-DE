@@ -99,15 +99,15 @@ Diese Zeile ist nach dem Kommentar.
 
 ### Einfaches Video ohne Transkript - sollte Transkript anzeigen, da metadata.md nach unten durchsickert
 
->[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3415782?captions=ger&hidetitle=true)
 
 ### Mit auf „true“ festgelegtem Transkript
 
->[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3415782?captions=ger&hidetitle=true){transcript=true}
 
 ### Wenn das Transkript auf „false“ gesetzt ist, sollte das Videotranskript nicht angezeigt werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/3415782?captions=ger&hidetitle=true){transcript=false}
 
 ## Relative Links
 
