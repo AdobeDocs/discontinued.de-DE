@@ -2,7 +2,7 @@
 title: '[!DNL Data Workbench] Ende der Nutzungsdauer'
 description: In diesem Dokument werden häufig gestellte Fragen zum Ende der Lebensdauer von  [!DNL Data Workbench] behandelt.
 exl-id: 88a2c977-2c21-4bf8-9d58-24cb1ea2a075
-source-git-commit: 7b43cece7f0c1ab1f7b4dcc6fd445be6ba0c6e8a
+source-git-commit: b090d9f4f4040143b0d2847464785c7ad35de545
 workflow-type: tm+mt
 source-wordcount: '431'
 ht-degree: 99%
@@ -42,3 +42,4 @@ Adobe bietet derzeit die folgenden Adobe Experience Platform-Lösungen an, die �
 ## Wo finde ich weitere Informationen?
 
 Wenden Sie sich für weitere Informationen oder Fragen zu dieser [Mitteilung zum Ende der Lebensdauer](https://express.adobe.com/page/GSu6oKOD88GAj/) an die Adobe-Kontaktperson Ihres Unternehmens.
+
