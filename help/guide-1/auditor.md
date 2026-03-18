@@ -2,7 +2,7 @@
 title: '[!DNL Adobe Experience Platform Auditor] Ende der Nutzungsdauer'
 description: Dieses Dokument bezieht sich auf  [!DNL Adobe Experience Platform Auditor]  und seine Nachfolgeprodukte.
 exl-id: 326ae443-2974-4f0c-8c16-bfd2b8a6a70c
-source-git-commit: 726b038bfeaf84d7b3ba786e716dff41446d5578
+source-git-commit: b090d9f4f4040143b0d2847464785c7ad35de545
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 55%
@@ -14,4 +14,3 @@ ht-degree: 55%
 [!DNL Adobe Experience Platform Auditor] war ein System, mit dem Sie Berichte erstellen konnten, die Ihre [!DNL Adobe Experience Cloud]-Implementierung bewerten und Hinweise zur Verbesserung enthalten. [!DNL Adobe Experience Platform Auditor] hat das Ende der Lebensdauer (End of Life, EOL) erreicht und ist nicht mehr aktiv.
 
 Das eigenständige System wurde zwar außer Betrieb gesetzt, Sie können aber weiterhin alle [!DNL Auditor]-Tests unter Verwendung der [!DNL Adobe Experience Platform Debugger]-Browser-Erweiterung ausführen. Weitere Informationen finden Sie in der [Dokumentation für Experience Platform Debugger](https://experienceleague.adobe.com/docs/debugger/using-v2/experience-cloud-debugger.html?lang=de).
-
