@@ -1,13 +1,15 @@
 ---
 title: Mirror-Workflow-Testseite
-description: Testseite für die Validierung des gespiegelten Markdown-Inhalts.
-source-git-commit: 9a324057d8e1459c24057d31d26e30420d85f043
+description: Die Testseite zur Validierung von gespiegeltem Markdown-Inhalt wurde aktualisiert.
+source-git-commit: bf07c3f249ee71069637335f7965e03366cfa88e
 workflow-type: tm+mt
-source-wordcount: '23'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
 # Mirror-Workflow-Testseite
 
-Dies ist eine Test-Markdown-Datei mit frontmatter.
+Diese Datei wurde aktualisiert, um sicherzustellen, dass die Spiegelung die neuesten Inhalte aus dem Quell-Repository aufnimmt.
+
+Wenn dieser Text im öffentlichen Repository angezeigt wird, verwendet der wiederverwendbare Mirror-Workflow die erwartete Version.
