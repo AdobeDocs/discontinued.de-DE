@@ -39,7 +39,7 @@ Dies ist ein versteckter Test. Ich füge dieses `[` hinzu, um sicherzustellen, d
 
 [Neue Registerkarte mit Deep-Link](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[Neue Registerkarte mit Deep-Link verankern](https://experienceleague.adobe.com/en/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
+[Neue Registerkarte mit Deep-Link verankern](https://experienceleague.adobe.com/de/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
 [Neue Registerkarte mit externem Link](https://www.adobe.com){target="_blank"}
 
