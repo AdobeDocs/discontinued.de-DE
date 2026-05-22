@@ -98,19 +98,19 @@ Bei Implementierungen mobiler Apps werden Experience Platform-Tags nicht wie bei
 
 +++**Hat dieses Ende der Unterstützung Auswirkungen auf SDK für tvOS?**
 
-Ja. Für tvOS (ab Version 10) wird empfohlen, mit dem Adobe Experience Platform Mobile SDK zu Streaming Media für Edge Network zu migrieren. Weitere [ finden Sie unter „Implementieren von Streaming](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html)Medien mit der mobilen Edge SDK&quot;.
+Ja. Für tvOS (ab Version 10) wird empfohlen, mit dem Adobe Experience Platform Mobile SDK zu Streaming Media für Edge Network zu migrieren. Weitere [&#x200B; finden Sie unter „Implementieren von Streaming](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html)Medien mit der mobilen Edge SDK&quot;.
 
 +++
 
 +++**Hat dieses Ende der Unterstützung Auswirkungen auf SDK for Fire TV und Android TV?**
 
-Ja. Für Fire TV und Android TV wird empfohlen, mit der Adobe Experience Platform Mobile SDK zu Streaming Media für Edge Network zu migrieren. Weitere [ finden Sie unter „Implementieren von Streaming](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html)Medien mit der mobilen Edge SDK&quot;.
+Ja. Für Fire TV und Android TV wird empfohlen, mit der Adobe Experience Platform Mobile SDK zu Streaming Media für Edge Network zu migrieren. Weitere [&#x200B; finden Sie unter „Implementieren von Streaming](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html)Medien mit der mobilen Edge SDK&quot;.
 
 +++
 
 +++**Wo finde ich Informationen zum Ende der Nutzungsdauer von Mobile v4 SDK?**
 
-Siehe [ FAQ zum Ende der Nutzungsdauer von Mobile Services](mobile-services.md). Die Mobile Services-Plattform und die Mobile v4-SDKs wurden am 31. Dezember 2022 eingestellt.
+Siehe [&#x200B; FAQ zum Ende der Nutzungsdauer von Mobile Services](mobile-services.md). Die Mobile Services-Plattform und die Mobile v4-SDKs wurden am 31. Dezember 2022 eingestellt.
 
 +++
 
