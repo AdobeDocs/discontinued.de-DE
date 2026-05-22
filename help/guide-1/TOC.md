@@ -1,11 +1,11 @@
 ---
-user-guide-title: Eingestellte Produkte für Adobe Experience Cloud
+user-guide-title: Eingestellte Produkte für CX Enterprise
 breadcrumb-title: Eingestellte Produkte
-user-guide-description: Liste der ausgesetzten Produkte für [!DNL Adobe Experience Cloud]
-source-git-commit: 2406787e294816a812f4eaa97a3a7ba43b26c6a0
+user-guide-description: Liste der nicht mehr angebotenen Produkte für CX Enterprise
+source-git-commit: d014c200dd926ccf0116faa50c4bffb1d234e926
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 61%
+source-wordcount: '56'
+ht-degree: 62%
 
 ---
 
@@ -21,11 +21,9 @@ ht-degree: 61%
 + [Experience Cloud-Bibliothek](/help/guide-1/experience-cloud-library.md)
 + [Experience Platform Auditor](/help/guide-1/auditor.md)
 + [Livefyre](/help/guide-1/livefyre.md)
++ [Media SDK (1.x und 2.x)](media-sdk.md)
 + [Mobile Services](/help/guide-1/mobile-services.md)
 + [Reports &amp; Analytics](/help/guide-1/reports-and-analytics.md)
 + [Search&amp;Promote](/help/guide-1/search-promote.md)
 + [Social](/help/guide-1/social.md)
 + [Store-Erfüllung für Adobe Commerce](/help/guide-1/commerce-store-fulfillment.md)
-+ {hide-from-toc}[Ausgeblendeter Test - Februar](/help/guide-1/hidden-test.md)
-+ {hide-from-toc}[Ausgeblendeter Abschnitt 1](hidden-section-1.md)
-+ {hide-from-toc}[Ausgeblendeter Abschnitt - 2](/help/guide-1/hidden-section-2.md)

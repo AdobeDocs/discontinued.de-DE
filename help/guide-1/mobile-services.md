@@ -2,10 +2,10 @@
 title: Häufig gestellte Fragen zum Ende der Lebensdauer von Adobe Mobile Services
 description: Erhalten Sie Antworten auf häufig gestellte Fragen zur Ankündigung des Endes der Lebensdauer von Adobe Mobile Services.
 exl-id: c5f44341-7b87-4530-b86e-17e2911a7959
-source-git-commit: 726b038bfeaf84d7b3ba786e716dff41446d5578
+source-git-commit: d014c200dd926ccf0116faa50c4bffb1d234e926
 workflow-type: tm+mt
-source-wordcount: '450'
-ht-degree: 97%
+source-wordcount: '449'
+ht-degree: 90%
 
 ---
 
@@ -25,7 +25,7 @@ Dieses Ende der Lebensdauer betrifft NICHT Adobe Analytics für Apps, das Teil d
 
 ## Warum wird die Funktion eingestellt?
 
-Da Adobe seine Mobile-Marketing-Funktionen weiter ausbaut, werden Funktionen, die zuvor bereits in Mobile Services verfügbar waren, in Adobe Experience Cloud-Lösungen veröffentlicht oder über Adobe Exchange Premier Partners angeboten. Mit diesem Übergang werden Ihnen leistungsfähigere und flexiblere Mobile-Marketing-Funktionen geboten.
+Da Adobe seine mobilen Marketing-Funktionen weiter ausbaut, werden Funktionen, die bisher in Mobile Services verfügbar waren, in CX Enterprise-Lösungen veröffentlicht oder über Adobe Exchange Premier Partner angeboten. Mit diesem Übergang werden Ihnen leistungsfähigere und flexiblere Mobile-Marketing-Funktionen geboten.
 
 ## Was passiert mit bestehenden, in Mobile Services erstellten Verarbeitungsregeln?
 
