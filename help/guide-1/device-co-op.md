@@ -3,16 +3,16 @@ keywords: Gerätekooperation;Gerätekooperation;Ende der Lebensdauer
 title: Häufig gestellte Fragen zum Ende der Lebensdauer von [!DNL Device Co-op]
 description: Erfahren Sie mehr über die Pläne zum Ende der Lebensdauer für Device Co-op.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: d014c200dd926ccf0116faa50c4bffb1d234e926
+source-git-commit: bd104719cf4dd8e9f2bb1c15f4d30e4ddfcf743c
 workflow-type: tm+mt
-source-wordcount: '1215'
+source-wordcount: '1213'
 ht-degree: 95%
 
 ---
 
 # Häufig gestellte Fragen zum Ende der Lebensdauer von [!DNL Device Co-op]
 
-Dieses Dokument enthält Antworten auf häufig gestellte Fragen zum Plan für das Ende der Nutzungsdauer (End of Life, EOL) von CX Enterprise Device Co-op. Sobald dieser Plan in Kraft tritt, wird Adobe einen erweiterten Hinweis in den [CX Enterprise Central-Versionshinweisen](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=de) und dem [Prioritäts-Produkt-Update](https://www.adobe.com/de/subscription/priority-product-update.html) bereitstellen.
+Dieses Dokument enthält Antworten auf häufig gestellte Fragen zum EOL-Plan (End of Life) für die Gerätekooperation. Sobald dieser Plan in Kraft tritt, wird Adobe einen erweiterten Hinweis in den [Experience Cloud Central-Versionshinweisen](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=de) und dem [Prioritäts-Produkt-Update](https://www.adobe.com/de/subscription/priority-product-update.html) bereitstellen.
 
 [!DNL Device Co-op] war ein Programm, über das die Teilnehmenden zusammenarbeiten konnten, um Verbraucher und Verbraucherinnen auf allen digitalen Touchpoints besser zu identifizieren und gleichzeitig ein Höchstmaß an Datenschutz und Transparenz sicherzustellen.
 
