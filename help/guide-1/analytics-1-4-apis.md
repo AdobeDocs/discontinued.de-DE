@@ -33,9 +33,9 @@ Außerdem wird die **Adobe Analytics WSSE-Authentifizierung** eingestellt (siehe
 
 ## WSSE-Authentifizierung
 
-Die WSSE-Authentifizierung ist ein veraltetes Authentifizierungsprotokoll, das von den Analytics 1.4-APIs unterstützt wurde. Sie wurde durch die OAuth-basierten Authentifizierungsoptionen ersetzt, die in der [Adobe Developer Console bereitgestellt ](https://developer.adobe.com/console/home). Projekte, die die WSSE-Authentifizierung verwenden, müssen ihre Anmeldeinformationen auf die in der Adobe Developer Console bereitgestellten aktualisieren.
+Die WSSE-Authentifizierung ist ein veraltetes Authentifizierungsprotokoll, das von den Analytics 1.4-APIs unterstützt wurde. Sie wurde durch die OAuth-basierten Authentifizierungsoptionen ersetzt, die in der [Adobe Developer Console bereitgestellt &#x200B;](https://developer.adobe.com/console/home). Projekte, die die WSSE-Authentifizierung verwenden, müssen ihre Anmeldeinformationen auf die in der Adobe Developer Console bereitgestellten aktualisieren.
 
-Um zu migrieren, melden Sie sich bei der [Adobe Developer Console an ](https://developer.adobe.com/console/home) erstellen Sie ein Projekt für Ihre Analytics 2.0-API-Integration. Wählen Sie entweder die Authentifizierungsmethode **OAuth-** oder **OAuth-Server-zu-Server** aus.
+Um zu migrieren, melden Sie sich bei der [Adobe Developer Console an &#x200B;](https://developer.adobe.com/console/home) erstellen Sie ein Projekt für Ihre Analytics 2.0-API-Integration. Wählen Sie entweder die Authentifizierungsmethode **OAuth-** oder **OAuth-Server-zu-Server** aus.
 
 ## Dateneinfüge-API
 
@@ -48,7 +48,7 @@ Die Dateneinfüge-**ist** Teil dieses End-of-Life. Die Dokumentation wurde auf d
 
 +++Hat dies Auswirkungen auf meine bestehenden Adobe Developer-Projekte für die Analytics-APIs?
 
-Alle vorhandenen Projekte, die die Analytics 1.4-APIs verwenden, sind betroffen. Diese Integrationen müssen in die [Adobe Analytics 2.0-APIs migriert ](https://developer.adobe.com/analytics-apis/docs/2.0/).
+Alle vorhandenen Projekte, die die Analytics 1.4-APIs verwenden, sind betroffen. Diese Integrationen müssen in die [Adobe Analytics 2.0-APIs migriert &#x200B;](https://developer.adobe.com/analytics-apis/docs/2.0/).
 
 +++
 
