@@ -1,5 +1,4 @@
 ---
-force-publish-loc: '2026-10-02'
 cloud: Experience Cloud
 solution: CX Enterprise
 product_v2:
