@@ -41,7 +41,7 @@ Dies ist ein versteckter Test. Ich füge dieses `[` hinzu, um sicherzustellen, d
 
 [Neue Registerkarte mit Deep-Link verankern](https://experienceleague.adobe.com/de/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
-[Neue Registerkarte mit externem Link](https://www.adobe.com){target="_blank"}
+[Neue Registerkarte mit externem Link](https://www.adobe.com/de){target="_blank"}
 
 [Root-Link für neue Registerkarte](/help/guide-1/auditor.md){target="_blank"}
 
@@ -52,12 +52,12 @@ Dies ist ein versteckter Test. Ich füge dieses `[` hinzu, um sicherzustellen, d
     <th>Ohne Anführungszeichen</th>
   </tr>
   <tr>
-    <td><a href="https://www.adobe.com" target="_blank">Neue Registerkarte in Adobe</a></td>
-    <td><a href="https://www.adobe.com" target="_blank">Neue Registerkarte in Adobe</td>
+    <td><a href="https://www.adobe.com/de" target="_blank">Neue Registerkarte in Adobe</a></td>
+    <td><a href="https://www.adobe.com/de" target="_blank">Neue Registerkarte in Adobe</td>
   </tr>
   <tr>
-    <td><a href="https://www.adobe.com">Adobe - keine neue Registerkarte</a></td>
-    <td><a href="https://www.adobe.com">Adobe - keine neue Registerkarte</td>
+    <td><a href="https://www.adobe.com/de">Adobe - keine neue Registerkarte</a></td>
+    <td><a href="https://www.adobe.com/de">Adobe - keine neue Registerkarte</td>
   </tr>
 </table>
 
